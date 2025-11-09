@@ -29,8 +29,11 @@ Output the pattern.
 ### Sample Output 1
 
    1
+   
   21
+  
  321
+ 
 4321
 ### Sample Input 2
 
@@ -38,7 +41,11 @@ Output the pattern.
 ### Sample Output 2
 
     1
+    
    21
+   
   321
+  
  4321
+ 
 54321
