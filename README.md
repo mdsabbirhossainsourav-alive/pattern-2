@@ -27,22 +27,22 @@ Output the pattern.
 
 4
 ### Sample Output 1
-   1
+       1
    
-  21
+     21
   
- 321
- 
-4321
+   321
+  
+  4321
 ### Sample Input 2
 
 5
 ### Sample Output 2
-    1
+       1
     
-   21
-   
-  321
+     21
+    
+   321
   
  4321
  
