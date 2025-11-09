@@ -27,7 +27,6 @@ Output the pattern.
 
 4
 ### Sample Output 1
-
    1
    
   21
@@ -39,7 +38,6 @@ Output the pattern.
 
 5
 ### Sample Output 2
-
     1
     
    21
